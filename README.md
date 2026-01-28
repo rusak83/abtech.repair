@@ -1,6 +1,6 @@
 # ABtech Refrigeration & Appliance Repair
 
-Static site for ABtech’s premium refrigeration-first service across Seattle’s Eastside.
+Static site for ABtech’s refrigeration-first service across Seattle’s Eastside.
 
 ## Structure
 - `index.html` (Home)
@@ -15,7 +15,7 @@ Static site for ABtech’s premium refrigeration-first service across Seattle’
 ## Notes
 - Phone: (206) 970-0638
 - Hours: 9:00 AM – 6:00 PM (7 days/week)
-- Service area: premium neighborhoods within ~30 miles of Bellevue
+- Service area: select neighborhoods within ~30 miles of Bellevue
 - Forms use `formsubmit.co` with the placeholder email `service@abtech.repair` — replace with the final email/CRM endpoint.
 
 ## Usage
