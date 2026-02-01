@@ -671,5 +671,6 @@ a:hover {
   }
 }
 
-#hcp-lead-iframe{width:100%;min-height:640px;border-radius:16px;background:#0f1c2d}
-@media screen and (max-width: 960px){#hcp-lead-iframe{min-height:720px}}
+#hcp-lead-iframe{width:100%;height:720px;border-radius:16px;background:#ffffff;display:block}
+@media screen and (max-width: 960px){#hcp-lead-iframe{height:780px;border-radius:12px}}
+@media screen and (max-width: 540px){#hcp-lead-iframe{height:820px}}
