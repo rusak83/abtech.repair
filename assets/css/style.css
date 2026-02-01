@@ -670,3 +670,6 @@ a:hover {
     gap: 10px;
   }
 }
+
+#hcp-lead-iframe{width:100%;min-height:640px;border-radius:16px;background:#0f1c2d}
+@media screen and (max-width: 960px){#hcp-lead-iframe{min-height:720px}}
